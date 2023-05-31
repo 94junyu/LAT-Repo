@@ -15,5 +15,5 @@
   * [作業一](./week3)
   * [作業二](./week3/hw1_part-2.ipynb)
   * [作業三](./week6/HW3.ipynb)
-  * [作業四](https://github.com/94junyu/demo_analysis)
+  * [作業四](https://github.com/94junyu/demo-analysis)
 + [**專題連結區**]()
